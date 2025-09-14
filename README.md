@@ -1,4 +1,4 @@
-# Task 2: Password Cracking with Hashcat
+# Password Cracking with Hashcat
 
 This project demonstrates the process of cracking weak password hashes using dictionary and brute-force attacks with Hashcat in a Kali Linux environment.
 
